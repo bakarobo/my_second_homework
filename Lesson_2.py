@@ -2,7 +2,7 @@
 
 number = int(input("Enter your number : "))
 i = [n for n in range(1, number+1) if not number % n]
-print(i)
+print(isssssssssssss)
 
 # Ввести число, вивести його розряди та їх множники.
 
